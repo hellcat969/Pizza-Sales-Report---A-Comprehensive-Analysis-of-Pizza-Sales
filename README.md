@@ -4,7 +4,7 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Data Source](#data-source)
-3. [Techniques Utilized in Analysis](#Techniques Utilized in Analysis)
+3. [Techniques Utilized in Analysis](#Techniques)
 4. [Results and Interpretation](#results-and-interpretation)
 5. [Sale Growth Strategies](#sale-growth-strategies)
 6. [Future predictions](#future-predictions)
